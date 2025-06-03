@@ -56,27 +56,27 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Gen-Ai | Auto gen sollution",
+    desc: "No coding. No struggle. Just AI-powered device onboarding.",
+    url: "https://github.com/YashYadav007/Gen-Ai-Iot-Devices-",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "One-Tap Video Object Eraser",
+    desc: "Unwanted object? Gone in a tap — like magic for your videos",
+    url: "https://github.com/YashYadav007",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    title: "Perfect-Pixel",
+    desc: "Generation of pixel perfect image with embedded data.",
+    url: "https://github.com/YashYadav007/pixelperfect",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Codsick",
+    desc: "Take Your Career to the Next Level with CodSick.",
+    url: "https://cod-sick.vercel.app/",
   },
 ];
 
